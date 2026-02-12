@@ -103,6 +103,7 @@ header h1 button strong{
 }
 header h2 span{
 	color: cyan;
+	font-size: 2rem;
 }
 header nav ul{
 	display: flex;
